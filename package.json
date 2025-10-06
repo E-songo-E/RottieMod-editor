@@ -1,8 +1,8 @@
 {
-  "name": "scratch-editor",
+  "name": "rottiemod-editor",
   "version": "11.6.0",
   "private": "true",
-  "description": "Scratch editor mono-repository",
+  "description": "Editor for the RottieMod!",
   "author": "Scratch Foundation",
   "license": "AGPL-3.0-only",
   "homepage": "https://github.com/scratchfoundation/scratch-editor#readme",
